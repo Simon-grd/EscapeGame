@@ -2,7 +2,7 @@
 
 ## Introduction :
 
-## 1. [Les énigmes] (/ressources/Enigmes.md)
+## 1. [Les énigmes](/ressources/Enigmes.md)
 
 
 
