@@ -17,3 +17,10 @@
   jaune = 7 | Priorité = 7
  
   Trouver un nombre de boules de couleurs indéfini et entrer le code.
+
+  <img src="/Images/IMG_1555.PNG" alt="Morse" width="300">
+  <img src="/Images/IMG_1558.PNG" alt="Morse" width="300">
+  <img src="/Images/IMG_1561.PNG" alt="Morse" width="300">
+  <img src="/Images/IMG_1562.PNG" alt="Morse" width="300">
+  <img src="/Images/IMG_1563.PNG" alt="Morse" width="300">
+  <img src="/Images/IMG_1564.PNG" alt="Morse" width="300">
