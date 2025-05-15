@@ -13,8 +13,8 @@
 - Une fois qu'une énigme a été résolue, l'utilisateur peut passer à n'importe quelle énigme. Il n'y a pas d'ordre spécifique à respecter dans la résolution des énigme de l'escape game.
 
 
-<figure class="video_container">
- <video CONTROLS="true" Allowfullscreen="true">
- <source src="/Images/ScreenRecording_05-14-2025 09-51-21_1.mov" type="video/mp4">
- </video>
-</figure>
+<video controls width="600">
+  <source src="./Images/ScreenRecording_05-14-2025%2009-51-21_1.mp4" type="video/mp4">
+  Votre navigateur ne prend pas en charge la vidéo.
+</video>
+
