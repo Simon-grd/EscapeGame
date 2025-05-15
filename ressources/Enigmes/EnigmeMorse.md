@@ -1,7 +1,7 @@
 ## [retour](/ressources/Enigmes.md)
 
 - Enigme en Morse :
-  
+
   Déchiffrer le code inscrit en Morse.
 
-  ![](/Images/IMG_1557.PNG)
+  <img src="/Images/IMG_1557.PNG" alt="Morse" width="300">
