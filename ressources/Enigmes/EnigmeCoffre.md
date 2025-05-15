@@ -1,3 +1,5 @@
+## [retour](/Ressources/Enigmes.md)
+
 - Enigme coffre caché + énigme :
   
   Il faut trouver un coffre caché dans une salle et trouver l’énigme cachée également.
