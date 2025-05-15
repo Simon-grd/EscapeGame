@@ -1,8 +1,8 @@
 # Escape-Game
 
-## Introduction :
+## Introduction :
 
-## 1. [Les énigmes] (/Ressources/Enigmes.md)
+## 1. [Les énigmes] (/ressources/Enigmes.md)
 
 
 
