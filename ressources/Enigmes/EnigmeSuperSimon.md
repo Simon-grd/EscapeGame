@@ -4,4 +4,4 @@
   
   Le jeu "Super Simon" apparaît, et on doit réaliser 15 niveaux du jeu sans erreurs.
 
-![](/Images/IMG_1556.PNG)
+  <img src="/Images/IMG_1556.PNG" alt="Morse" width="300">
