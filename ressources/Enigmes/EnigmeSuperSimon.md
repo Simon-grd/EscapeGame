@@ -4,4 +4,4 @@
   
   Le jeu "Super Simon" apparaît, et on doit réaliser 15 niveaux du jeu sans erreurs.
 
-[](/images/IMG_1556.PNG)
+[](/Images/IMG_1556.PNG)
