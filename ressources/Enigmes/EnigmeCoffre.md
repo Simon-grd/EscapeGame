@@ -7,3 +7,5 @@
   Sans lendemain et éphémère.
   S’y lancer pourrait être tragique,
   Sur Skyrim, elle est épique.
+
+  <img src="/Images/IMG_1567.PNG" alt="Morse" width="300">
