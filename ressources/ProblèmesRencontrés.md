@@ -2,8 +2,9 @@
 
 # Problèmes rencontrés :
 
-- Compatibilité de certains assets en URP (Universal Rendering Pipeline)
-- Téléversement de l'escape game sur Android (A l'aide d'Android studio)
+### - Compatibilité de certains assets en URP (Universal Rendering Pipeline)
+### - Téléversement de l'escape game sur Android (A l'aide d'Android studio)
+### - Affichage de l'écran de chargement au démarrage de l'application
 
 <img src="/Images/urp_unity.jpg" alt="Unity_urp" width="700">
-<img src="/Images/android_studio_logo.png" alt="androidstudio" width="350">
+<img src="/Images/android_studio_logo.png" alt="androidstudio" width="300">
