@@ -1,6 +1,6 @@
-## [retour](/Readme.md)
+## [Retour](/Readme.md)
 
-## Outils utilisés :
+# Outils utilisés :
 
 - Ordinateur sous MAC OS
 - Mobile sous IOS
