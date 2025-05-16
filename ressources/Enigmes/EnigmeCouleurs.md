@@ -19,11 +19,11 @@
   Trouver un nombre de boules de couleurs indéfini et entrer le code.
 
   <p float="left">
-  <img src="/Images/IMG_1578.PNG" alt="Morse" width="200" />
-  <img src="/Images/IMG_1558.PNG" alt="Morse" width="200" />
-  <img src="/Images/IMG_1561.PNG" alt="Morse" width="200" />
-  <img src="/Images/IMG_1562.PNG" alt="Morse" width="200" />
-  <img src="/Images/IMG_1563.PNG" alt="Morse" width="200" />
-  <img src="/Images/IMG_1564.PNG" alt="Morse" width="200" />
+  <img src="/Images/IMG_1578.PNG" alt="Morse" width="250" />
+  <img src="/Images/IMG_1558.PNG" alt="Morse" width="250" />
+  <img src="/Images/IMG_1561.PNG" alt="Morse" width="250" />
+  <img src="/Images/IMG_1562.PNG" alt="Morse" width="250" />
+  <img src="/Images/IMG_1563.PNG" alt="Morse" width="250" />
+  <img src="/Images/IMG_1564.PNG" alt="Morse" width="250" />
 </p>
 
