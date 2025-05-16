@@ -1,6 +1,6 @@
 ## [Retour](/ressources/Enigmes.md)
 
-- Enigme en Morse :
+# Enigme en Morse :
 
   Déchiffrer le code inscrit en Morse.
 
