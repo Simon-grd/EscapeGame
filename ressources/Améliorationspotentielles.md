@@ -1,6 +1,6 @@
-## [retour](/Readme.md)
+## [Retour](/Readme.md)
 
-## Améliorations potentielles :
+# Améliorations potentielles :
 
 - Portage de l'escape game sur android
 - Ajout d'un leaderboard qui classera en fonction du temps mis pour terminer l'escape game
