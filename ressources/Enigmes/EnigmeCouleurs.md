@@ -1,6 +1,6 @@
 ## [Retour](/ressources/Enigmes.md)
 
-- Enigme code des couleurs :
+# Enigme code des couleurs :
   
   rouge = 1 | Priorité = 1
  
