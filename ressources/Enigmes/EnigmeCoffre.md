@@ -1,4 +1,4 @@
-## [retour](/ressources/Enigmes.md)
+## [Retour](/ressources/Enigmes.md)
 
 - Enigme coffre caché + énigme :
   
