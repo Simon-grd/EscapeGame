@@ -1,6 +1,6 @@
 ## [Retour](/ressources/Enigmes.md)
 
-- Enigme des chiffres cachés :
+# Enigme des chiffres cachés :
   
   Il faut trouver le résultat en s'aidant des chiffres de l'énoncé.
 
