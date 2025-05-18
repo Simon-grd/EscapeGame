@@ -6,7 +6,7 @@
 
 - Lorsque l'utilisateur lancera l'application, son appareil photo s'activera sur son écran.
 
-- Grâce à cette application, l'appareil photo scane tous les objets réactifs de la pièce.
+- Grâce à cette application, l'appareil photo scanne tous les objets réactifs de la pièce.
 
 - Lorsque un indice est trouvé (Objet réactif), une scène possédant une énigme apparaitra sur l'écran de l'utilisateur.
 
