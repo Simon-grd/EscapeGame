@@ -1,7 +1,7 @@
 # Escape-Game
 
 ## Introduction :
-### Cet Escape game regroupe plusieurs niveaux, chacun situés dans une pièce avec une thématique différente
+### Cet Escape game regroupe plusieurs niveaux, chacun situés dans une pièce avec une thématique différente.
 
 ### 1. [Fonctionnement de l'escape game](/ressources/fonctionnement_jeu.md)
 ### 2. [Les énigmes](/ressources/Enigmes.md)
