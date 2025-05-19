@@ -12,7 +12,7 @@
 ### 3) Connecter un Iphone en USB à l'ordinateur
 ### 4) Choisir le bon périphérique dans la barre en haut de l'écran
 
-<img src="/Images/Xcode_appareil.png" alt="Xcode appareil" width="500">
+<img src="/Images/Xcode_appareil.png" alt="Xcode appareil" width="1500">
 
 ### 5) Lancer le projet
 
