@@ -2,7 +2,7 @@
 
 # Compilation :
 
-## Cela va permettre d'avoir l'Escape-Game sur son téléphone et d'avoir un rendu final.
+### Cela va permettre d'avoir l'Escape-Game sur son téléphone et d'avoir un rendu final.
 
 ### 1) Ouvrir XCode
 ### 2) Choisir le projet "Escape-Game"
@@ -18,7 +18,7 @@
 
 # Mise à jour :
 
-## A chaque modification effectuée, un nouveau build est nécessaire afin de transférer les données vers XCode.
+### A chaque modification effectuée, un nouveau build est nécessaire afin de transférer les données vers XCode.
 
 ### 1) Ouvrir Unity hub
 ### 2) Choisir le projet "Escape-Game"
