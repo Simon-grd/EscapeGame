@@ -2,8 +2,6 @@
 
 # Enigmes
 
-## L'escape game est composé de 9 énigmes, chacunes situées dans une scène unique.
-
 ### 1. [Enigme des chiffres](/ressources/Enigmes/EnigmeChiffres.md)
 ### 2. [Enigme du coffre](/ressources/Enigmes/EnigmeCoffre.md)
 ### 3. [Enigme des couleurs](/ressources/Enigmes/EnigmeCouleurs.md)
