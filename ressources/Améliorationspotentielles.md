@@ -7,3 +7,4 @@
 ### - Exploiter les scènes d'énigme vides (Création de nouvelles énigmes)
 ### - Création du logo de l'Escape Game
 ### - Réussir à faire apparaître le formulaire de report (code déjà effectué)
+<img src="/Images/code_formulaire" alt="form" width="700">
