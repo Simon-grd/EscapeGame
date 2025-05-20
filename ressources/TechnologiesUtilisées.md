@@ -4,7 +4,7 @@
 
 ### - Unity : C#
 
-- <img src="/Images/CSharpLogo.png" alt="c#" width="250">
+<img src="/Images/CSharpLogo.png" alt="c#" width="250">
 
 ### - Vuforia : AR-SDK
 
