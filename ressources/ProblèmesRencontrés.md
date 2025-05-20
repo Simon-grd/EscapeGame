@@ -4,7 +4,7 @@
 
 ### - Compatibilité de certains assets en URP (Universal Rendering Pipeline)
 ### - Téléversement de l'escape game sur Android (A l'aide d'Android studio)
-### - Affichage de l'écran de chargement au démarrage de l'application
+### - Affichage du formulaire de report 
 
 <p float="left">
 <img src="/Images/urp_unity.jpg" alt="Unity_urp" width="500">
