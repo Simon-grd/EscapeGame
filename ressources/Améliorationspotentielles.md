@@ -4,6 +4,6 @@
 
 ### - Portage de l'escape game sur android
 ### - Ajout d'un leaderboard qui classera en fonction du temps mis pour terminer l'escape game
-### - Exploiter les scènes d'énigmes vides (Création de nouvelles énigmes)
+### - Exploiter les scènes d'énigme vides (Création de nouvelles énigmes)
 ### - Création du logo de l'Escape Game
 ### - Réussir à faire apparaître le formulaire de report (code déjà effectué)
