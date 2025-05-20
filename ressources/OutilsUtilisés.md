@@ -17,7 +17,7 @@
 
 <img src="/Images/capture_assets_store.png" alt="Unity" width="700">
 
-### - Vuforia
+### - Vuforia (Permet de rendre des images réactives)
 
 
 
