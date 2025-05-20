@@ -17,6 +17,7 @@
 <img src="/Images/code_formulaire" alt="code form" width="500">
 
 #### Origine du problème :
+#### Les liens entre les éléments du formulaire et le code ne se font pas correctement.
 <img src="/Images/probleme_unity.png" alt="probleme unity" width="500">
 
 
