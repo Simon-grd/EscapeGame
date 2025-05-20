@@ -1,5 +1,8 @@
 # Escape-Game
 
+### Contexte :
+#### Cet Escape Game est à destination des différentes écoles présentes sur le campus. Bien que ce projet soit un jeu, chaque école pourra modifier cet Escape Game afin de le faire correspondre au domaine de prédilection des apprenants. Grâce à ce projet, cela servira d'outil éducatif afin d'apprendre de manière plus ludique. 
+
 ### 1. [Fonctionnement de l'escape game](/ressources/fonctionnement_jeu.md)
 ### 2. [Les énigmes](/ressources/Enigmes.md)
 ### 3. [Compilation & Mise à jour](/ressources/Compilation_&_Mise_à_jour.md)
