@@ -1,6 +1,6 @@
 ## [Retour](/ressources/Enigmes.md)
 
-# Enigme objet :
+# Enigme de l'objet :
   Je t'appartiens mais on m'utilise plus que toi, je te définis sans être unique. Je suis défini depuis tout petit, je peux me modifie
   quand je grandis. Qui suis-je ?
   
