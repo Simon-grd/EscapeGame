@@ -14,7 +14,7 @@
 
 <img src="/Images/Xcode_appareil.png" alt="Xcode appareil" width="1500">
 
-### 5) Lancer le projet
+### 5) Lancer le projet "Escape-Game"
 
 <img src="/Images/capture_app.PNG" alt="capture app sur iphone" width="500">
 
