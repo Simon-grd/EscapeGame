@@ -19,5 +19,6 @@
 
 ### - Vuforia (Permet de rendre des images réactives)
 
+<img src="/Images/vuforia_screen.png" alt="vuforia" width="700">
 
 
