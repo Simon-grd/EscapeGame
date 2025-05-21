@@ -17,7 +17,7 @@
 
 <img src="/Images/capture_assets_store.png" alt="Unity" width="700">
 
-### - Vuforia (Permet de rendre des images réactives)
+### - Vuforia (Directement intégré dans Unity permet de rendre des images réactives)
 
 <img src="/Images/vuforia_screen.png" alt="vuforia" width="700">
 
