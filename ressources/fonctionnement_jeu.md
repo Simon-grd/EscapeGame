@@ -4,6 +4,8 @@
 
 ### 1) L'utilisateur disposera d'une application sur mobile disponible uniquement sur IOS pour l'instant.
 
+<img src="/Images/capture_app.PNG" alt="capture app iphone" width="300">
+
 ### 2) Lorsque l'utilisateur lancera l'application, son appareil photo s'activera sur son écran.
 
 ### 3) Grâce à cette application, l'appareil photo scanne tous les objets réactifs de la pièce.
