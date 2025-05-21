@@ -16,6 +16,8 @@
 
 ### 5) Lancer le projet
 
+<img src="/Images/capture_app.PNG" alt="capture app sur iphone" width="500">
+
 # Mise à jour :
 
 ### A chaque modification effectuée, un nouveau build est nécessaire afin de transférer les données vers XCode.
