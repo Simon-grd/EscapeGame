@@ -16,7 +16,7 @@
 
 ### 5) Lancer le projet "Escape-Game"
 
-<img src="/Images/capture_app.PNG" alt="capture app sur iphone" width="500">
+<img src="/Images/capture_app.PNG" alt="capture app sur iphone" width="300">
 
 # Mise à jour :
 
