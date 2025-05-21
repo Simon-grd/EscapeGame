@@ -3,6 +3,8 @@
 # Améliorations potentielles :
 
 ### - Portage de l'escape game sur android
+<img src="/Images/android_logo.png" alt="android logo" width="250">
+
 ### - Ajout d'un leaderboard qui classera en fonction du temps mis pour terminer l'escape game
 ### - Exploiter les scènes d'énigme vides (Création de nouvelles énigmes)
 ### - Création du logo de l'Escape Game
