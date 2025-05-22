@@ -4,6 +4,8 @@
 
 ### 1) Se rendre sur le site : https://assetstore.unity.com
 
+<img src="/Images/capture_assets_store.png" alt="Unity" width="700">
+
 ### 2) Si un asset vous convient, ajoutez le à votre liste d'assets
 
 <img src="/Images/unity_addasset.png" alt="unityaddassets" width="500">
