@@ -3,8 +3,17 @@
 # Outils utilisés :
 
 ### - Ordinateur sous MAC OS
+
+<img src="/Images/imac_image.webp" alt="imac" width="500">
+
 ### - Mobile sous IOS
+
+<img src="/Images/iphone_image.png" alt="i mac" width="500">
+
 ### - VSCode
+
+<img src="/Images/vscode_logo.png" alt="vscode logo" width="500">
+
 ### - XCode
  
 <img src="/Images/capture_xcode.PNG" alt="XCode" width="700">
