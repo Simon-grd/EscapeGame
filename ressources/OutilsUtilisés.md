@@ -4,11 +4,11 @@
 
 ### - Ordinateur sous MAC OS
 
-<img src="/Images/imac_image.webp" alt="imac" width="500">
+<img src="/Images/imac_image.webp" alt="imac" width="400">
 
 ### - Mobile sous IOS
 
-<img src="/Images/iphone_image.png" alt="i mac" width="500">
+<img src="/Images/iphone_image.png" alt="i mac" width="400">
 
 ### - VSCode
 
@@ -16,7 +16,7 @@
 
 ### - XCode
  
-<img src="/Images/capture_xcode.PNG" alt="XCode" width="700">
+<img src="/Images/xcode_logo.png" alt="XCode" width="400">
 
 ### - Unity
  
