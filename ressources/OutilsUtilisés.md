@@ -4,11 +4,11 @@
 
 ## - Ordinateur sous MAC OS
 
-<img src="/Images/imac_image.png" alt="imac" width="400">
+<img src="/Images/imac_image.png" alt="imac" width="500">
 
 ## - Mobile sous IOS
 
-<img src="/Images/iphone_image.png" alt="i mac" width="400">
+<img src="/Images/iphone_image.png" alt="i mac" width="300">
 
 ## - VSCode
 
