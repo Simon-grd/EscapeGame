@@ -4,7 +4,7 @@
 
 ## - Ordinateur sous MAC OS
 
-<img src="/Images/imac_image.webp" alt="imac" width="400">
+<img src="/Images/imac_image.png" alt="imac" width="400">
 
 ## - Mobile sous IOS
 
