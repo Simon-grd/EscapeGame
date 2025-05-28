@@ -16,7 +16,7 @@
  
   ### jaune = 7 | Priorité = 7
  
-  ### Trouver un nombre de boules de couleurs indéfini et entrer le code.
+  ### Trouver toutes les boules de couleur et trouver le code secret à l'aide du nombre de chacune d'entre elles.
 
   <p float="left">
   <img src="/Images/IMG_1578.PNG" alt="Morse" width="250" />
