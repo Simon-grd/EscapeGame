@@ -1,6 +1,9 @@
 ## [Retour](/ressources/Enigmes.md)
 
 # Enigme code des couleurs :
+
+  ### Trouver toutes les boules de couleur et trouver le code secret à l'aide du nombre de chacune d'entre elles.
+
   
   ### rouge = 1 | Priorité = 1
  
@@ -16,8 +19,6 @@
  
   ### jaune = 7 | Priorité = 7
  
-  ### Trouver toutes les boules de couleur et trouver le code secret à l'aide du nombre de chacune d'entre elles.
-
   <p float="left">
   <img src="/Images/IMG_1578.PNG" alt="Morse" width="250" />
   <img src="/Images/IMG_1558.PNG" alt="Morse" width="250" />
